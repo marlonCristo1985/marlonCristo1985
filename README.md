@@ -1,37 +1,45 @@
-Analista de Testes de Software / QA Sênior, com experiência em Garantia da Qualidade, planejamento e execução de testes em múltiplas camadas, atuando na prevenção de defeitos e na qualidade desde a concepção da solução até a implantação em produção.
+Analista de QA e Test Lead com visão de Analista de Negócios: garanto a qualidade de sistemas críticos de ponta a ponta, do requisito ao acompanhamento em produção.
 
 
 
-Experiência em ambientes ágeis e tradicionais, atuando no entendimento de requisitos e demandas, definição de estratégias e cenários de testes, validação de regras de negócio e critérios de aceite, análise de riscos e investigação de defeitos.
+São 14 anos em qualidade de software, 10 deles em sistemas críticos de alta disponibilidade: um parque de 42 sistemas integrados, em um terminal portuário que opera 24 horas e não pode parar. Esse contexto de integrações, mensageria e operação contínua é o que levo para qualquer sistema crítico. 
 
 
 
-Conhecimentos em técnicas de testes como partição de equivalência, tabela de decisão, testes baseados em riscos e heurísticas, aplicados a testes funcionais, exploratórios, regressivos, integração e testes ponta a ponta (E2E).
-
-Experiência com testes em sistemas Web, Desktop, Mobile, embarcados, APIs, microserviços, microfront-end, Sistemas de armazém (WMS), incluindo validação de integrações, acompanhamento de logs no Kibana e monitoramento de infraestrutura e serviços via Grafana.
+No caminho também atuei como Analista de Negócios e Product Owner, com discovery de regras, levantamento de requisitos com clientes, jurídico e operação, e definição de MVP. 
 
 
 
-Testes de API: REST, JSON, validação de requisições e respostas, códigos de status HTTP, headers, autenticação, autorização, testes de integração e regressão, Postman e Swagger/OpenAPI.
+Por isso começo pelo negócio: refino o requisito com quem pede, desenho a estratégia e os cenários de teste, valido cada camada do sistema (tela, API REST, filas de mensagens e banco de dados), conduzo a entrada em produção e sigo acompanhando depois dela, até a causa raiz de cada falha.
 
 
 
-Banco de Dados: Oracle, SQL, testes de banco de dados, análise de consultas, validação de dados persistidos e testes de Views.
+Alguns resultados:
+
+- Estruturei e liderei a área de QA, com um time de 7 QAs, na troca do sistema central do terminal (TOS), da contratação ao pós-go-live, sem parar a operação.
+
+- Validei os requisitos de um novo sistema de controle de acesso veicular em mensageria com uma matriz de decisão de 2.090 cenários, antes do desenvolvimento.
+
+- Garanti a qualidade da migração do portal do cliente de monólito para microsserviços, piloto da cultura DevOps da empresa, com automação E2E e de regressão visual em JavaScript, 809 defeitos acompanhados e a prontidão operacional mantida.
+
+- Criei um checklist de 11 verificações que tornou auditável a aprovação de cada mudança em views, APIs e painéis.
+
+- Como Product Owner, conduzi do requisito à entrega o MVP do app do motorista, que trocou a guia em papel por QR Code na operação de carga e descarga do terminal.
 
 
 
-Automação de Testes: Conhecimento em Cypress, Playwright, JavaScript, automação de testes de API e UI, automação de regressão, gerenciamento de dados de teste, fixtures, mocks, Page Object Model, independência de testes, análise de testes flaky e paralelização.
+Stack: Postman, Swagger, REST, XML · Oracle SQL, PL/SQL, MongoDB · RabbitMQ, Kibana, OpenSearch, Kubernetes (Lens), Consul · Protractor, BackstopJS, SuperTest, Mocha, Chai · Jira, Confluence, BDD/Gherkin, Scrum · Claude, ChatGPT e GitHub Copilot para ampliar cenários e regras.
+
+Em aprofundamento: Playwright e Cypress (pós-graduação em Automação de Testes de Software, 368 h) e IA generativa aplicada a QA.
 
 
 
-Tecnologias: C#, APIs .NET, WPF, REST, RabbitMQ, JavaScript microserviços, sistemas distribuídos e integrados.
-
-Também possuo experiência como Product Owner, atuando no entendimento das necessidades dos clientes, desenho de soluções de negócio, definições técnicas, gestão de backlog e sprints e condução do time de desenvolvimento.
+Domínio de negócio: logística e operações 24 horas (portos, ferrovia e comex), integrações entre sistemas e com órgãos públicos.
 
 
 
-Domínio de negócio: logística portuária e ferroviária, Terminal Operating System (TOS), operações com contêineres, EDI, BAPLIE, manifestos, integrações, WMS, Integração com órgão intervenientes, licenciamento de trens, restrições em vias e sistemas críticos de operação.
+Busco vagas de Analista de QA/Testes, Test Lead e Analista de Negócios/Requisitos/Product Owner (QA Engineer · Test Lead · Business Analyst), remoto ou híbrido em Curitiba-PR.
 
 
 
-Perfil: analítico, investigativo, colaborativo e orientado à melhoria contínua, com foco em qualidade, automação e redução de riscos nas entregas de software.
+Portfólio com 8 projetos em que trabalhei: https://marloncristo1985.github.io/?ref=linkedin
