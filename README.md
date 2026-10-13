@@ -1,45 +1,61 @@
-Analista de QA e Test Lead com visão de Analista de Negócios: garanto a qualidade de sistemas críticos de ponta a ponta, do requisito ao acompanhamento em produção.
+### Olá, eu sou o Marlon 👋
 
+**Analista de Testes · QA Engineer · Test Lead · Analista de Negócios/Requisitos · Product Owner**
 
+Do requisito à produção: garanto que o sistema faça o que o negócio precisa.
 
-São 14 anos em qualidade de software, 10 deles em sistemas críticos de alta disponibilidade: um parque de 42 sistemas integrados, em um terminal portuário que opera 24 horas e não pode parar. Esse contexto de integrações, mensageria e operação contínua é o que levo para qualquer sistema crítico. 
+São 14 anos em projetos de software, da análise do negócio à garantia de qualidade, a maior parte em sistemas críticos que operam 24 horas (logística portuária, integrações e mensageria). Valido cada camada do sistema: tela, API REST, fila de mensagens e banco de dados.
 
+Este GitHub reúne meus projetos de **automação de testes**, feitos na pós-graduação em Automação de Testes de Software (Faculdade Facint, 368 h, 2025–2026). Os projetos de trabalho profissional estão no meu portfólio.
 
+---
 
-No caminho também atuei como Analista de Negócios e Product Owner, com discovery de regras, levantamento de requisitos com clientes, jurídico e operação, e definição de MVP. 
+### 🧪 Projetos de automação
 
+| Projeto | O que testa | Ferramentas | Pipeline |
+|---|---|---|---|
+| [pgats-trabalho-final-web](https://github.com/marlonCristo1985/pgats-trabalho-final-web) | **Web E2E:** 10 cenários de uma loja virtual (cadastro, login, logout, contato com anexo, busca de produtos, newsletter e compra completa até o pagamento) | Cypress, JavaScript, Faker, Mochawesome | GitHub Actions (manual, com relatório, vídeos e prints) |
+| [pgats-02-api-revisao](https://github.com/marlonCristo1985/pgats-02-api-revisao) | **API REST:** regras de transferência entre usuários, com testes de controller (com mocks) e testes via HTTP com a API no ar | Mocha, Chai, SuperTest, Sinon, Mochawesome | GitHub Actions (a cada push e pull request) |
+| [pgats-trabalho-final-performance](https://github.com/marlonCristo1985/pgats-trabalho-final-performance) | **Performance:** carga no checkout de uma API com login JWT (10 usuários por 20 s, checks e limites de tempo e de erro). Também tem testes funcionais da API | k6, Mocha, Chai, SuperTest, Sinon | GitHub Actions (testes funcionais) |
+| [pgats-ci-lab](https://github.com/marlonCristo1985/pgats-ci-lab) | **Integração contínua:** pipelines que rodam os testes E2E de uma aplicação web | GitHub Actions, Playwright | Execução manual e agendada (toda segunda-feira) |
 
+> Nos projetos da pós, a aplicação ou API de base foi fornecida pelo curso. Os testes, a organização do código e os pipelines são meus.
 
-Por isso começo pelo negócio: refino o requisito com quem pede, desenho a estratégia e os cenários de teste, valido cada camada do sistema (tela, API REST, filas de mensagens e banco de dados), conduzo a entrada em produção e sigo acompanhando depois dela, até a causa raiz de cada falha.
+---
 
+### 🛠️ O que uso no dia a dia
 
+**Testes de API e serviços:** Postman, Swagger, REST, XML, SuperTest, Mocha, Chai
 
-Alguns resultados:
+**Banco de dados:** Oracle SQL, PL/SQL, MongoDB
 
-- Estruturei e liderei a área de QA, com um time de 7 QAs, na troca do sistema central do terminal (TOS), da contratação ao pós-go-live, sem parar a operação.
+**Mensageria e observabilidade:** RabbitMQ, Kibana, OpenSearch, Kubernetes (Lens), Consul
 
-- Validei os requisitos de um novo sistema de controle de acesso veicular em mensageria com uma matriz de decisão de 2.090 cenários, antes do desenvolvimento.
+**Automação web:** Protractor e BackstopJS (uso profissional) · Cypress e Playwright (pós-graduação)
 
-- Garanti a qualidade da migração do portal do cliente de monólito para microsserviços, piloto da cultura DevOps da empresa, com automação E2E e de regressão visual em JavaScript, 809 defeitos acompanhados e a prontidão operacional mantida.
+**Gestão e método:** Jira, Confluence, BDD/Gherkin, Scrum
 
-- Criei um checklist de 11 verificações que tornou auditável a aprovação de cada mudança em views, APIs e painéis.
+**IA aplicada a QA:** Claude, ChatGPT e GitHub Copilot para ampliar cenários e regras
 
-- Como Product Owner, conduzi do requisito à entrega o MVP do app do motorista, que trocou a guia em papel por QR Code na operação de carga e descarga do terminal.
+**Em aprofundamento:** Cypress, Playwright, k6, GitHub Actions e IA generativa aplicada a QA.
 
+---
 
+### 📌 Alguns resultados profissionais
 
-Stack: Postman, Swagger, REST, XML · Oracle SQL, PL/SQL, MongoDB · RabbitMQ, Kibana, OpenSearch, Kubernetes (Lens), Consul · Protractor, BackstopJS, SuperTest, Mocha, Chai · Jira, Confluence, BDD/Gherkin, Scrum · Claude, ChatGPT e GitHub Copilot para ampliar cenários e regras.
+- Estruturei e liderei a área de QA, com um time de 7 QAs, na troca do sistema central de um terminal portuário, da contratação ao pós-go-live, sem parar a operação.
+- Validei os requisitos de um novo sistema de controle de acesso veicular com uma matriz de decisão de 2.090 cenários, antes do desenvolvimento.
+- Garanti a qualidade da migração de um portal do cliente de monólito para microsserviços, com 809 defeitos acompanhados e a prontidão operacional mantida.
+- Automatizei testes de API de um app de inspeção com SuperTest, Mocha e Chai.
 
-Em aprofundamento: Playwright e Cypress (pós-graduação em Automação de Testes de Software, 368 h) e IA generativa aplicada a QA.
+---
 
+### 📫 Contato
 
+🌐 Portfólio com 8 projetos que entreguei: [marloncristo1985.github.io](https://marloncristo1985.github.io/?ref=github)
 
-Domínio de negócio: logística e operações 24 horas (portos, ferrovia e comex), integrações entre sistemas e com órgãos públicos.
+💼 LinkedIn: [marlon-de-cristo-paula](https://www.linkedin.com/in/marlon-de-cristo-paula-b1299144)
 
+✉️ marlon.cristo.paula@gmail.com
 
-
-Busco vagas de Analista de QA/Testes, Test Lead e Analista de Negócios/Requisitos/Product Owner (QA Engineer · Test Lead · Business Analyst), remoto ou híbrido em Curitiba-PR.
-
-
-
-Portfólio com 8 projetos em que trabalhei: https://marloncristo1985.github.io/?ref=linkedin
+Busco vagas de Analista de Testes/QA, Test Lead e Analista de Negócios/Requisitos/Product Owner · remoto, híbrido ou presencial em Curitiba-PR.
