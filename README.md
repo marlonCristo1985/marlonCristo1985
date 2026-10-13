@@ -6,7 +6,7 @@ Do requisito à produção: garanto que o sistema faça o que o negócio precisa
 
 São 14 anos em projetos de software, da análise do negócio à garantia de qualidade, a maior parte em sistemas críticos que operam 24 horas (logística portuária, integrações e mensageria). Valido cada camada do sistema: tela, API REST, fila de mensagens e banco de dados.
 
-Este GitHub reúne meus projetos de **automação de testes**, feitos na pós-graduação em Automação de Testes de Software (Faculdade Facint, 368 h, 2025–2026). Os projetos de trabalho profissional estão no meu portfólio.
+Este GitHub reúne meus projetos de **automação de testes**, a maioria feita na pós-graduação em Automação de Testes de Software (Faculdade Facint, 368 h, 2025–2026). Os projetos de trabalho profissional estão no meu portfólio.
 
 ---
 
@@ -15,11 +15,12 @@ Este GitHub reúne meus projetos de **automação de testes**, feitos na pós-gr
 | Projeto | O que testa | Ferramentas | Pipeline |
 |---|---|---|---|
 | [pgats-trabalho-final-web](https://github.com/marlonCristo1985/pgats-trabalho-final-web) | **Web E2E:** 10 cenários de uma loja virtual (cadastro, login, logout, contato com anexo, busca de produtos, newsletter e compra completa até o pagamento) | Cypress, JavaScript, Faker, Mochawesome | GitHub Actions (manual, com relatório, vídeos e prints) |
+| [portfolio-playwright-tests](https://github.com/marlonCristo1985/portfolio-playwright-tests) | **Web E2E (em andamento):** testes do meu próprio portfólio, começando pela troca de idioma PT/EN, com Page Object e fluxo de branch e Pull Request | Playwright, TypeScript | GitHub Actions (a cada push e pull request) |
 | [pgats-02-api-revisao](https://github.com/marlonCristo1985/pgats-02-api-revisao) | **API REST:** regras de transferência entre usuários, com testes de controller (com mocks) e testes via HTTP com a API no ar | Mocha, Chai, SuperTest, Sinon, Mochawesome | GitHub Actions (a cada push e pull request) |
 | [pgats-trabalho-final-performance](https://github.com/marlonCristo1985/pgats-trabalho-final-performance) | **Performance:** carga no checkout de uma API com login JWT (10 usuários por 20 s, checks e limites de tempo e de erro). Também tem testes funcionais da API | k6, Mocha, Chai, SuperTest, Sinon | GitHub Actions (testes funcionais) |
 | [pgats-ci-lab](https://github.com/marlonCristo1985/pgats-ci-lab) | **Integração contínua:** pipelines que rodam os testes E2E de uma aplicação web | GitHub Actions, Playwright | Execução manual e agendada (toda segunda-feira) |
 
-> Nos projetos da pós, a aplicação ou API de base foi fornecida pelo curso. Os testes, a organização do código e os pipelines são meus.
+> No pgats-02-api-revisao, eu codifiquei a API com o GitHub Copilot e escrevi os testes. Nos outros projetos da pós, a aplicação ou API de base veio do curso; os testes, a organização do código e os pipelines são meus.
 
 ---
 
